@@ -1,2 +1,3 @@
 # purufirstrepo
-this is first repository with github
+this is the first repository with GitHub
+added this line to make first commit
